@@ -1,5 +1,5 @@
 # ASMR Parser Prototype
-An experimental ASMR intermediary format parser prototype. This will be used to experiment with an "intermediary" ASMR format and to discover its limitations and capabilities.
+An experimental ASMR intermediate format parser prototype. This will be used to experiment with an "intermediate" ASMR patch format and to discover its limitations and capabilities.
 
 <!-- copied from https://github.com/QuiltMC/asmr-processor-prototype don't @ me -->
 # [What is ASMR?](https://github.com/QuiltMC/asmr-processor-prototype#what-is-asmr)
